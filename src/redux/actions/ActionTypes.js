@@ -1,0 +1,6 @@
+export const USER = "userData"
+export const TOKEN = "userToken"
+export const USER_EXERCISES = "userex"
+export const USER_BEST_EXERCISES= "userBestEx"
+export const USER_ORGANIZATIONS= "userOrg"
+export const GYM_POSTEDCOMMENTS= "gymcomments"
